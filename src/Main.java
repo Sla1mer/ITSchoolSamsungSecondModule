@@ -18,9 +18,9 @@ public class Main {
 
         HomeWorkFunc1 homeWorkFunc1 = new HomeWorkFunc1(a,b,c,d,n);
 
-        homeWorkFunc1.Read();
+        homeWorkFunc1.Read(); // Функция которая читает переменные
 
-        homeWorkFunc1.Display();
+        homeWorkFunc1.Display(); // Функция которая выводит на экран
 
 
 

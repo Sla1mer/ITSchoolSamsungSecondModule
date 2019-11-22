@@ -1,8 +1,8 @@
 public class HomeWorkFunc1 {
     private int first;
-    private int first2;
+    private int first2; // Вторая переменная для первой дроби
     private int second;
-    private int second2;
+    private int second2; // Вторая переменная для второй дроби
     private float number;
 
     public HomeWorkFunc1(int first, int first2, int second, int second2, float number) {
